@@ -9,6 +9,7 @@
 
 * CAD
   <img src="https://img.shields.io/badge/LTspice-900028?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=LTspice&logoColor=white">
   
 <!--
 **officialboyy/officialboyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
