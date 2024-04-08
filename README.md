@@ -9,5 +9,5 @@
   <img src="https://img.shields.io/badge/LTspice-900028?style=flat-square&logo=LTspice&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Pspice-2a5fac?style=flat-square&logo=Pspice&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CodeVisionAVR-d2331b?style=flat-square&logo=CodeVisionAVR&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
   
