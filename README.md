@@ -17,3 +17,4 @@
 <h3 align="center"> 📞 Contact </h3>
 
 ##
+  <a href="mailto:pjh0063@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pjh0063@gmail.com"/></a>
