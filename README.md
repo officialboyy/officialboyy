@@ -11,8 +11,9 @@
   <img src="https://img.shields.io/badge/CodeVisionAVR-d2331b?style=flat-square&logo=CodeVisionAVR&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>&nbsp
 
+</p>
 
-
+<br>
 <h3 align="center"> 📞 Contact </h3>
 
 ##
