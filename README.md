@@ -8,5 +8,5 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/LTspice-900028?style=flat-square&logo=LTspice&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Pspice-2a5fac?style=flat-square&logo=Pspice&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CodeVisionAVR-2a5fac?style=flat-square&logo=CodeVisionAVR&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CodeVisionAVR-d2331b?style=flat-square&logo=CodeVisionAVR&logoColor=white"/></a>&nbsp
   
