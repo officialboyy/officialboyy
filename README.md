@@ -2,6 +2,8 @@
 
 <h3 align="center">🛠 Skills</h3>
 
+<p align="center">
+
 <!--
 **officialboyy/officialboyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
