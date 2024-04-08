@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=JunhoPark&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Junho%20Park&fontSize=60)
 
 <!--
 **officialboyy/officialboyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
