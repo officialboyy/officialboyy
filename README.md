@@ -25,5 +25,3 @@
 <br>
 
 ##
-<p align="center">
-![pjh0063's github stats](https://github-readme-stats.vercel.app/api?username=pjh0063&show_icons=true&theme=tokyonight)
