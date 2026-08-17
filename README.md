@@ -100,4 +100,13 @@ STM32CubeIDE / STM32CubeMX를 활용한 STM32 펌웨어 실습
 
 ## Contact
 
-📧 YOUR_EMAIL
+##
+<p align="center">
+  <a href="mailto:pjh0063@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pjh0063@gmail.com"/></a>
+
+</p>
+
+<br>
+
+##
+
